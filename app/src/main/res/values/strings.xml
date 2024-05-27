@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music\nPlayer</string>
+    <string name="unknown">Unknown</string>
+
+    <string name="permission_prompt">Please allow access to the permissions to use this app!</string>
+    <string name="permissions_rationale">Permission is denied. Please grant access manually in settings to use this app!</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="enable_permissions">Enable permissions</string>
+    <string name="goto_settings">Go to Settings!</string>
+    <string name="music_player">Music Player</string>
+</resources>
